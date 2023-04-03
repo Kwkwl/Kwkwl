@@ -10,9 +10,11 @@
 	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
 </div>
 <br>
+<div align=center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kwkwl&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Kwkwl&show_icons=true"><br><br>
-
+</div>
+	
 <div align=center>
 <p>🏆 Baekjoon solved rank 🏆</p>
 
