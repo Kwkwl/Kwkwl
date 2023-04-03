@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Kwkwl's Github&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Kwkwl's%20Github&fontSize=90" />	
 </div>
 	
 <div align=center>
@@ -39,8 +39,6 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=yel21307)](https://solved.ac/yel21307)
-</div>
 
-<div>
 <img src="http://mazandi.herokuapp.com/api?handle=yel21307&theme=warm"/>
 </div>
