@@ -4,6 +4,7 @@
 	
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
+	<p>✨ Framework & Languages ✨</p>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
@@ -29,12 +30,12 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 <br>
-<div>
+<div float=left>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kwkwl&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Kwkwl&show_icons=true">
 </div>
 	
-<div>
+<div float=left>
 <p>🏆 Baekjoon solved rank 🏆</p>
 
 [![Solved.ac
